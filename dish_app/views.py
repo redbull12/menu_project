@@ -74,4 +74,3 @@ class MenuViewSet(ModelViewSet):
     def get_serializer_context(self):
         return {'request': self.request, 'action': self.action}
 
-# TODO

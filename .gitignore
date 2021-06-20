@@ -229,3 +229,8 @@ Thumbs.db
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django
+
+.idea/
+.vscode/
+.DS_Store
+.env
